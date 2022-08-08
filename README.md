@@ -14,4 +14,4 @@ personality test
 6. It appears that A7 in the data is negligible.
 7. Assign the personality types : ("Organizer", "Doer", "Thinker", "Creator", "Helper", "Persuader") 
  
-
+![](https://github.com/la6if9/pymetrics-data/blob/main/plottt.PNG)
